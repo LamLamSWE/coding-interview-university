@@ -1,4 +1,4 @@
-# Coding Interview University
+# Coding Interview University 
 
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
 > but it grew to the large list you see today. After going through this study plan, [I got hired
@@ -78,7 +78,7 @@ For a complete CS self-taught program, the resources for my study plan have been
 
 ### The Study Plan
 
-- [What is it?](#what-is-it)
+- [What is it?](#what-is-it)  -> đã đọc ngày 16/6/2-26
 - [Why use it?](#why-use-it)
 - [How to use it](#how-to-use-it)
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
