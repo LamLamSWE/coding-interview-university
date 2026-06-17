@@ -78,7 +78,7 @@ For a complete CS self-taught program, the resources for my study plan have been
 
 ### The Study Plan
 
-- [What is it?](#what-is-it)  -> đã đọc ngày 16/6/2-26
+- [What is it?](#what-is-it) 
 - [Why use it?](#why-use-it)
 - [How to use it](#how-to-use-it)
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
@@ -96,7 +96,7 @@ For a complete CS self-taught program, the resources for my study plan have been
 
 - [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
 - [Data Structures](#data-structures)
-    - [Arrays](#arrays)
+    - [Arrays](#arrays) /
     - [Linked Lists](#linked-lists)
     - [Stack](#stack)
     - [Queue](#queue)
