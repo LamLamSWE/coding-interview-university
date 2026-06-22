@@ -500,7 +500,7 @@ You can see my code here:
 
 You don't need to memorize every algorithm. You just need to be able to understand it enough to be able to write your own implementation.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ back to top](#table-of-contents)** 
 
 ## Coding Question Practice
 
@@ -565,7 +565,7 @@ Challenge/Practice sites:
 
 **[⬆ back to top](#table-of-contents)**
 
-## Let's Get Started
+## Let's Get Started   ------------------------------->22/6/2026------------------------------>
 
 Alright, enough talk, let's learn!
 
